@@ -1,4 +1,4 @@
-package org.example.lab5;
+/*package org.example.lab5;
 
 import java.util.Scanner;
 
@@ -222,3 +222,4 @@ public class Main {
         scanner.close();
     }
 }
+*/
